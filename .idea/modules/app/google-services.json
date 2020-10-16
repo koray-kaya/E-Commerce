@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715351277162",
+    "firebase_url": "https://e-commerce-e0483.firebaseio.com",
+    "project_id": "e-commerce-e0483",
+    "storage_bucket": "e-commerce-e0483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715351277162:android:3c5700c1f9b5ac496f1413",
+        "android_client_info": {
+          "package_name": "com.koraykaya.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715351277162-tt0j5t6lh0luu8pt97bsm5ne7ap8q7bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koraykaya.e_commerce",
+            "certificate_hash": "c16ddd8056943ef24ec785cce46f0bfe9734bf68"
+          }
+        },
+        {
+          "client_id": "715351277162-4pkdjkn2mgh48ahh5alu4bpr21l8feam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrewryOzgEHcaMBAL5En_zbx4v-odbYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715351277162-4pkdjkn2mgh48ahh5alu4bpr21l8feam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
